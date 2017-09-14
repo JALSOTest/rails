@@ -6,6 +6,8 @@ module Rails
     Gem::Version.new VERSION::STRING
   end
 
+  #adding useless comments
+  
   module VERSION
     MAJOR = 5
     MINOR = 2
